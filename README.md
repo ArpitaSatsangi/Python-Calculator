@@ -16,4 +16,4 @@ The calculator's user interface is clean and intuitive, featuring large buttons 
 - User-friendly graphical interface with responsive buttons.
 - Error handling for invalid expressions.
 
-This Python Calculator project is a great way to practice GUI development with tkinter and to gain experience in handling user input for arithmetic operations.
+This Python Calculator project helps me in a great way to practice GUI development with tkinter and to gain experience in handling user input for arithmetic operations.
